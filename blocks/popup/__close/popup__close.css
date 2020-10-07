@@ -1,0 +1,13 @@
+.popup__close {
+    position: absolute;
+    color: #fff;
+    top: -30px;
+    right: -20px;
+    font-size: 30px;
+    text-decoration: none;
+    transition: ease 0.3s;
+}
+
+.popup__close:hover {
+    opacity: 60%;
+}

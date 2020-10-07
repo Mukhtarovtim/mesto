@@ -1,0 +1,12 @@
+.profile-items {
+    width: 336px;
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 370px) {
+    .profile-items {
+        justify-content: center;
+        width: 100%;
+    }
+}

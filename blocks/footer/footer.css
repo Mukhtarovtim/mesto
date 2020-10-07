@@ -1,0 +1,11 @@
+.footer {
+    width: 882px;
+    transition: ease 0.3s;
+}
+
+@media screen and (max-width: 970px) {
+    .footer {
+        width: 90%;
+    }
+}
+

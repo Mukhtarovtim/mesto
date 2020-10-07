@@ -1,0 +1,11 @@
+.profile-info {
+    margin: auto 0 auto 30px;
+    transition: ease 0.3s;
+
+}
+
+@media screen and (max-width: 970px) {
+    .profile-info {
+        margin: 0;
+    }
+}

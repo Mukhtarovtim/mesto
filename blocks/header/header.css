@@ -1,0 +1,13 @@
+.header {
+    width: 882px;
+    border-bottom-style: solid;
+    border-bottom-color: #545454;
+    border-bottom-width: 1px;
+    transition: ease 0.3s;
+}
+
+@media screen and (max-width: 970px) {
+    .header {
+        width: 100%;
+    }
+}

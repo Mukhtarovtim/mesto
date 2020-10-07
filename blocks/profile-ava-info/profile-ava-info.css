@@ -1,0 +1,10 @@
+.profile-ava-info {
+    display: flex;
+    transition: ease 0.3s;
+}
+
+@media screen and (max-width: 970px) {
+    .profile-ava-info {
+        flex-direction: column;
+    }
+}
