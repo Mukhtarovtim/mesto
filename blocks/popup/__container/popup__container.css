@@ -2,10 +2,21 @@
     background-color: #fff;
     position: relative;
     width: 430px;
-    height: 330px;
     margin: auto;
     background: #FFFFFF;
     box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.15);
     border-radius: 10px;
     box-sizing: border-box;
+}
+
+@media screen and (max-width: 500px) {
+    .popup__container {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 370px) {
+    .popup__container {
+        width: 90%;
+    }
 }

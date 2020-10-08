@@ -8,4 +8,16 @@
     text-decoration: none;
     color: #fff;
     padding-top: 14px;
+    transition: ease 0.3s;
+}
+
+.popup__save:hover {
+    opacity: 80%;
+}
+
+@media screen and (max-width: 500px) {
+    .popup__save {
+        margin-top: 45px;
+        margin-bottom: 25px;
+    }
 }

@@ -5,3 +5,12 @@
     height: 24px;
     border-bottom: 1px solid #00000020;
 }
+
+@media screen and (max-width: 500px) {
+    .popup__item {
+        height: 27px;
+    }
+    .popup__item:first-child {
+        margin-top: 55px;
+    }
+}
