@@ -1,12 +1,8 @@
 .profile__button-add {
+    object-fit: none;
     border: solid 1px #fff;
     width: 150px;
     height: 50px;
-    text-align: center;
-    font-size: 34px;
-    transition: ease 0.3s;
-    text-decoration: none;
-    color: #fff;
 }
 
 .profile__button-add:hover {

@@ -25,6 +25,7 @@
 
 @media screen and (max-width: 370px) {
     .elements {
-        width: 90%;
+        width: 90;
+        justify-content: center;
     }
 }

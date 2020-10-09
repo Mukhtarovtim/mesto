@@ -2,8 +2,7 @@
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
-    line-height: 22px;   
-    margin: 0;
+    margin: 16px 0 0 0;
 }
 
 @media screen and (max-width: 970px) {
@@ -15,7 +14,6 @@
 @media screen and (max-width: 370px) {
     .profile-info__status {
         font-size: 14px;
-        line-height: 17px;
         text-align: center;
         margin: 0;
     }
