@@ -1,7 +1,7 @@
 .header {
     width: 882px;
     border-bottom-style: solid;
-    border-bottom-color: #545454;
+    border-bottom-color: rgba(255, 255, 255, 0.2);
     border-bottom-width: 1px;
     transition: ease 0.3s;
 }

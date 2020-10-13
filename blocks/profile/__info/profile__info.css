@@ -1,0 +1,18 @@
+.profile__info {
+    margin: auto 0 auto 30px;
+    transition: ease 0.3s;
+    width: 440px;
+
+}
+
+@media screen and (max-width: 970px) {
+    .profile__info {
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .profile__info {
+        width: 280px;
+    }
+}

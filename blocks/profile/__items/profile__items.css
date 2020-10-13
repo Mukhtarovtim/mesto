@@ -1,10 +1,9 @@
-.profile-items {
+.profile__items {
     display: flex;
-    justify-content: space-between;
 }
 
 @media screen and (max-width: 970px) {
-    .profile-items {
+    .profile__items {
         justify-content: center;
         width: 100%;
         margin: 30px 0 14px;

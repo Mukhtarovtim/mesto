@@ -1,15 +1,15 @@
-.profile-items__edit {
-    margin-top: 8px;
+.profile__edit {
+    margin-top: 5px;
     margin-left: 15px;
 }
 
-.profile-items__edit:hover {
+.profile__edit:hover {
     opacity: 60%;
     transition: ease 0.3s;
 }
 
 @media screen and (max-width: 370px) {
-    .profile-items__edit {
+    .profile__edit {
         margin: auto 0 auto 8px;
     }
 }
