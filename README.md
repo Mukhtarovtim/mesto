@@ -7,4 +7,4 @@
 
 ## Ссылка на Github Pages
 
-https://mukhtarovtim.github.io/mesto/index.html
+https://mukhtarovtim.github.io/mesto/
